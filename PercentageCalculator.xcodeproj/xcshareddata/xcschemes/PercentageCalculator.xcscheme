@@ -20,6 +20,20 @@
                ReferencedContainer = "container:PercentageCalculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "22325BC71C62395E006879FF"
+               BuildableName = "PercentageCalculatorTests.xctest"
+               BlueprintName = "PercentageCalculatorTests"
+               ReferencedContainer = "container:PercentageCalculator.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
